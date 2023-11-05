@@ -1,5 +1,6 @@
 ### Zheer Kejlberg Al-Mashhadi, MD, PhD
 - PhD in pharmacoepidemiology of fractures in diabetes mellitus
+- Interested in statistical methods, causal inference, and Rstats
 - Additional: Atherosclerosis, hypertension, insulin resistance
 
 <!--
