@@ -1,7 +1,20 @@
 ### Zheer Kejlberg Al-Mashhadi, MD, PhD
-- PhD in pharmacoepidemiology of fractures in diabetes mellitus
-- Interested in statistical methods, causal inference, and Rstats
-- Additional: Atherosclerosis, hypertension, insulin resistance
+
+<ins>Currently</ins> a postdoc at Steno Diabetes Center Aarhus
+
+&emsp;&emsp; characterising medication use in type 2 diabetes and improving prediction of type 2 diabetes and its consequences
+
+<ins>Previously</ins> a **PhD** in the pharmacoepidemiology of fractures in type 2 diabetes.
+
+&emsp;&emsp; I have additionally worked with atherosclerosis, hypertension, insulin resistance and more.
+
+My <ins>research interests</ins> lie mostly in the methodological realm; 
+
+&emsp;&emsp; statistics and prediction, causal inference, and everything Rstats.
+
+My <ins>clinical experience</ins> spans internal medicine / endocrinology, general/family medicine, emergency medicine, and psychiatry
+
+
 
 <!--
 **zheer-kejlberg/zheer-kejlberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
